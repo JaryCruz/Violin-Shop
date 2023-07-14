@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Violin",
+    "price": 949,
+    "imgUrl": "images/violin.webp"
+  },
+  {
+    "id": 2,
+    "name": "Viola",
+    "price": 1199,
+    "imgUrl": "images/viola.webp"
+  },
+  {
+    "id": 3,
+    "name": "Cello",
+    "price": 3399,
+    "imgUrl": "/images/cello.webp"
+  },
+  {
+    "id": 4,
+    "name": "Base",
+    "price": 5929,
+    "imgUrl": "/images/base.webp"
+  },
+  {
+    "id": 5,
+    "name": "Bow",
+    "price": 199,
+    "imgUrl": "/images/bow.webp"
+  },
+  {
+    "id": 6,
+    "name": "Shoulder Rest",
+    "price": 99,
+    "imgUrl": "/images/shoulder-rest.webp"
+  }
+]
