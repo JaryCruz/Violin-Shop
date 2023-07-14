@@ -286,6 +286,7 @@ nav .btn-cart {
 
 .modal-title button {
   font-size: 1.5rem;
+  color: var(--black);
 }
 
 .cart-item {
